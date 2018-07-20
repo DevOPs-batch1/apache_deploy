@@ -1,2 +1,2 @@
 # apache_deploy
-#testing ansible
+#testing application deploy to apache using ansible
